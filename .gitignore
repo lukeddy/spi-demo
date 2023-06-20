@@ -1,0 +1,10 @@
+.idea
+spi-demo.iml
+app/target
+plugin/target
+plugin-first/target
+plugin-second/target
+app/app.iml
+plugin/plugin.iml
+plugin-first/plugin-first.iml
+plugin-second/plugin-second.iml
